@@ -12,6 +12,7 @@
   <a href="CONTRIBUTING.md">Contribute</a>
 </p>
 
+
 Human understanding grows through specific moves: a new representation, a decisive experiment, a useful approximation, a challenge to an accepted idea. **Principia-Legacy makes those moves—and the reasons connecting them—navigable.**
 
 Follow a discovery into its documented foundations. See where an insight travels across subjects. Examine the evidence, assumptions, and limits that give each connection its meaning.
